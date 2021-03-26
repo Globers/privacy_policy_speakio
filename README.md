@@ -20,6 +20,7 @@ Link to privacy policy of third party service providers used by the app
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [Amplitude](https://amplitude.com/privacy)
+*   [UxCam] (https://help.uxcam.com/hc/en-us/articles/360004158171)
 
 **Log Data**
 
