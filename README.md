@@ -17,9 +17,8 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [Amplitude](https://amplitude.com/privacy)
+*   [Mixpanel](https://mixpanel.com/legal/privacy-policy/)
 *   [UxCam](https://help.uxcam.com/hc/en-us/articles/360004158171)
 
 **Log Data**
